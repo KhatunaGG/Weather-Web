@@ -1,0 +1,46 @@
+/* .search {
+  position: fixed;
+  top: 2.8%;
+  right: 4%;
+  z-index: 20;
+}
+
+.city__input {
+  background-color: transparent;
+  color: white;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid white;
+  padding-bottom: 5px;
+}
+
+.city__input::-webkit-input-placeholder {
+  color: #ffffff;
+}
+
+.search__btn {
+  padding: 5px;
+  position: absolute;
+  right: 3px;
+  top: -1px;
+  border: none;
+  background-color: transparent;
+}
+
+.logo_mobile {
+  display: none;
+}
+
+@media screen and (width > 375px) {
+  .logo {
+    display: none;
+  }
+
+  .logo_mobile {
+    display: block;
+  }
+
+  .search__btn {
+    top: -10px;
+  }
+} */
